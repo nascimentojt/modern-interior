@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/nascimentojt/creative-crew">
+    <a href="https://github.com/nascimentojt/modern-interior">
       Solution
     </a>
     <span> | </span>
